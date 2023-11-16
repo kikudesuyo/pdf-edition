@@ -2,18 +2,18 @@
 For spliting or combining PDF files.
 
 
-Activate the virtual environment.
+## Activate the virtual environment
 ```
 source .env/bin/activate
 ```
 
-# installation
+## installation
 ```
 pip install -r requirements.txt
 ```
 
 
-# Usage
+## Usage
 If you want to split several pdf files, put them directly under `/pdf`.
 Execute `python split_pdf.py`.
 Split files are generated under `/output/split/your_pdf_file/`.
