@@ -1,0 +1,2 @@
+from pdf_edition import split_all_pdf_file
+split_all_pdf_file()
