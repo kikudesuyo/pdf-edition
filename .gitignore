@@ -1,3 +1,7 @@
 pdf/*
 output/combine/*
 output/split/*
+
+!pdf/.gitkeep
+!output/combine/.gitkeep
+!output/split/.gitkeep
