@@ -2,9 +2,9 @@
 For spliting or combining PDF files.
 
 
-仮想環境を有効化
-```source
-.env/bin/activate
+Activate the virtual environment.
+```
+source .env/bin/activate
 ```
 
 # installation
