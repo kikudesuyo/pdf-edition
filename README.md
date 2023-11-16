@@ -8,8 +8,8 @@ For spliting or combining PDF files.
 ```
 
 # installation
-```pip 
-install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 
