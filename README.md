@@ -4,10 +4,17 @@ For spliting or combining PDF files.
 
 ## Activate the virtual environment
 ```
-source .env/bin/activate
+python -m venv .venv
 ```
 
-## installation
+```
+#Unix
+source .venv/bin/activate
+#Windows
+source .venv/Scripts/activate
+```
+
+## Installation
 ```
 pip install -r requirements.txt
 ```

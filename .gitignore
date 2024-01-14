@@ -5,3 +5,4 @@ output/split/*
 !pdf/.gitkeep
 !output/combine/.gitkeep
 !output/split/.gitkeep
+.venv
