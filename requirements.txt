@@ -1,2 +1,4 @@
+fpdf==1.7.2
+invoke==2.2.0
 natsort==8.4.0
 pypdf==3.17.1
