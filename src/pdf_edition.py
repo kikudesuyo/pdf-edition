@@ -4,8 +4,8 @@ import os
 import pypdf
 from natsort import natsorted
 
-from src.helper.file_relation import check_is_directory, check_is_pdf_file
-from src.util import generate_path
+from helper.file_relation import check_is_directory, check_is_pdf_file
+from util import generate_path
 
 
 class PdfSplitter:
